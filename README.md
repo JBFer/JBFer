@@ -1,8 +1,8 @@
 - 👋 Hi, my name is José Fernandes
-- 👀 I’m interested in Coding, Sports and Photography
-- 🌱 I’m currently learning React Native, CNC aplied code and CTF
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... just don't
+- 👀 I’m interested in Coding and Photography
+- 🌱 I’m currently learning C, Java and Networks
+- 🤝 I’m looking to collaborate on interesting projects
+- 📫 How to reach me -> jbfport@gmail.com
 
 <!---
 JBFer/JBFer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
